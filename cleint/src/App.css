@@ -1,0 +1,25 @@
+.m-1{
+  width: 30%;
+  background-color: teal;
+  margin: auto;
+  justify-content: space-around;
+  font-weight: bold;
+ color: white;
+  display: flex;
+}
+.m-1 > div{
+  cursor: pointer;
+}
+.jn-1{
+  width: 15%;
+  height: 300px;
+  margin: auto;
+}
+.jn-1 > input{
+  width: 95%;
+padding: 3px;
+margin: 5px;
+}
+.jn-1 > button{
+  margin-left: 40%;
+}
